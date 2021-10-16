@@ -1,4 +1,4 @@
-![LINK FOR DOWNLOADING](https://clck.ru/YFpeT)
+[LINK FOR DOWNLOADING](https://clck.ru/YFpeT)
 
 **Danil Kazancev**
 
