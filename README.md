@@ -1,53 +1,82 @@
-﻿**Danil Kazancev [**danil.kaz@list.ru](mailto:danil.kaz@list.ru)** ● +7­(951)­484­73­88 ● <https://github.com/vaskers5>
+LINK FOR DOWNLOADING: https://drive.google.com/file/d/1-a6cMlkZTDic04xou7UEJHFphivDVdiz/view?usp=sharing
 
-**EDUCATION [ITMO University**](http://www.example.com/my-university)**, Saint­Petersburg, Russia 2020 – 2024
+**Danil Kazancev**
 
-Bachelor
+danil.kaz@list.ru ● +7(951)4847388 ● [https://github.com/vaskers5](https://github.com/vaskers5)
 
+
+<table>
+  <tr>
+   <td><strong>EDUCATION</strong>
+   </td>
+   <td><strong><a href="http://www.example.com/my-university">ITMO University</a></strong>, Saint­Petersburg, Russia	2020 – 2024
+<p>
+Bachleor
+<p>
 Computer Technologies department, Information Systems and Technologies
-
-**WORK Yeti lab**, Moscow Jul 2021 – Now **EXPERIENCE** Machine Learning Engineer
-
-Researching and implementing of deep learning multimodal and generative models, data analysis, data mining
-
-Chief: Maxim Matyushin
-
-**Astra Studio**, Yekaterinburg Jun 2019 – Jan 2020
-
-Full­Stack Intern
-
-Testing and developing games for the Facebook/VK platform. Using Django/Tornado/PostgreSQL.
-
+   </td>
+  </tr>
+  <tr>
+   <td><strong>WORK</strong>
+<p>
+<strong>EXPERIENCE</strong>
+   </td>
+   <td><strong>Backend Department, Astra Studio</strong>	June 2019 – January 2020
+<p>
+Full-Stack Intern
+<p>
+Testing and developing games for the Facebook/VK platform. Using Django/PostgreSQL.
+<p>
 Chief: Pavel Trofimchuk
-
-**Profi.ru**, Saint Petersburg Feb 2020 – Jun 2021 Personal Tutor
-
+<p>
+<strong>Self-employed                                                                                                        </strong> February 2020 - Now
+<p>
+Personal tutor 
+<p>
 Teaching children algorithms and data structures/math Olympiads
+   </td>
+  </tr>
+  <tr>
+   <td><strong>EVENTS</strong>
+   </td>
+   <td><strong>Digital services for personal assistants</strong>, Prize winner                                                   November 2020
+<p>
+Participant of ML_Is_Union team
+<p>
+Creation of recommendations for products of well-known companies for a person based on social-media data
+   </td>
+  </tr>
+  <tr>
+   <td><strong>SKILLS</strong>
+   </td>
+   <td><strong>Python</strong>: NumPy, PyTorch ecosystem frameworks, Matplotlib
+<p>
+<strong>Must­have</strong>: Git, Docker, Bash, Linux, Jupyter, VS
+<p>
+<strong>Backend</strong>: Python Django
+<p>
+<strong>Frontend</strong>: HTML/CSS/JavaScript
+<p>
+<strong>Other</strong>: C++, Reading technical documentation skills
+   </td>
+  </tr>
+</table>
 
-**EVENTS Digital services for personal assistants**, Participant Oct 2020
 
-Creation of recommendations for products of well­known companies for a person based on social­media data
 
-Team: ML Is Union
-
-**Moscow Travel Hach**, Prize winner Mar 2021 Development of a web application using the knowledge base (”knowledge graph”).
-
-Team: Skovorodka
-
-**RaifHack DS**, Top 50 participant Sep 2021 Develop an algorithm for assessing the value of commercial real estate.
-
-Team: Kazan Plova
-
-**SKILLS Python**: NumPy, SciPy, CatBoost, Pandas, PyTorch ecosystem frameworks.
-
-**Must­have**: Git, Docker, Bash, Linux, Jupyter, Pycharm
-
-**Backend**: Python Tornado/Flask
-
-**Other**: C Sharp, C++
-
-**INTERESTS** Professional: distributed and highload systems, deep learning in NLP
-
-Other: Drums, Guitar, Netflix, Powerlifting(a little bit)
-
-Page 1 of [1](#_page0_x50.40_y43.20)
+<table>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>INTERESTS</strong>
+   </td>
+   <td><strong>  Professional</strong>: distributed and highload systems, deep learning in NLP and voice processing, dialoge systems 
+<p>
+<strong>  Other</strong>: Guitar/Drums/Netflix
+   </td>
+  </tr>
+</table>
