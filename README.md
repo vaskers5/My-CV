@@ -1,53 +1,61 @@
-﻿**Danil Kazancev [**danil.kaz@list.ru](mailto:danil.kaz@list.ru)** ● +7­(951)­484­73­88 ● <https://github.com/vaskers5>
+﻿#  DanilKazancev 
 
-**EDUCATION [ITMO University**](http://www.example.com/my-university)**, Saint­Petersburg, Russia 2020 – 2024
+[danil.kaz@list.ru](mailto:danil.kaz@list.ru)●+7­(951)­484­73­88●[https://github.com/vaskers5](https://github.com/vaskers5)
+
+ EDUCATION  [ ITMO   University ](http://www.example.com/my-university),Saint­Petersburg,Russia 2020–2024
 
 Bachelor
 
-Computer Technologies department, Information Systems and Technologies
+ComputerTechnologiesdepartment,InformationSystemsandTechnologies
 
-**WORK Yeti lab**, Moscow Jul 2021 – Now **EXPERIENCE** Machine Learning Engineer
+ WORK 
 
-Researching and implementing of deep learning multimodal and generative models, data analysis, data mining
+ EXPERIENCE 
 
-Chief: Maxim Matyushin
+ Yeti   lab ,Moscow Jul2021–Now
 
-**Astra Studio**, Yekaterinburg Jun 2019 – Jan 2020
+MachineLearningEngineer
 
-Full­Stack Intern
+Researchingandimplementingofdeeplearningmultimodalandgenerativemodels,dataanalysis,datamining
 
-Testing and developing games for the Facebook/VK platform. Using Django/Tornado/PostgreSQL.
+Chief:MaximMatyushin
 
-Chief: Pavel Trofimchuk
+ Astra   Studio ,Yekaterinburg Jun2019–Jan2020
 
-**Profi.ru**, Saint Petersburg Feb 2020 – Jun 2021 Personal Tutor
+Full­StackIntern
 
-Teaching children algorithms and data structures/math Olympiads
+TestinganddevelopinggamesfortheFacebook/VKplatform.UsingDjango/Tornado/PostgreSQL.Chief:PavelTrofimchuk
 
-**EVENTS Digital services for personal assistants**, Participant Oct 2020
+ Profi.ru  ,SaintPetersburg Feb2020–Jun2021
 
-Creation of recommendations for products of well­known companies for a person based on social­media data
+PersonalTutor
 
-Team: ML Is Union
+Teachingchildrenalgorithmsanddatastructures/mathOlympiads
 
-**Moscow Travel Hach**, Prize winner Mar 2021 Development of a web application using the knowledge base (”knowledge graph”).
+ EVENTS    Digital   services   for   personal   assistants  ,Participant Oct2020
 
-Team: Skovorodka
+Creationofrecommendationsforproductsofwell­knowncompaniesforapersonbasedonsocial­mediadata
 
-**RaifHack DS**, Top 50 participant Sep 2021 Develop an algorithm for assessing the value of commercial real estate.
+Team:MLIsUnion
 
-Team: Kazan Plova
 
-**SKILLS Python**: NumPy, SciPy, CatBoost, Pandas, PyTorch ecosystem frameworks.
+   Moscow   Travel   Hach  ,Prizewinner  Mar2021 
+ ---  ---  --- 
+ Developmentofawebapplicationusingtheknowledgebase(&quot;knowledgegraph&quot;). 
+ 
+ Team:Skovorodka 
+ 
+  RaifHack   DS ,Top50participant  Sep2021 
+ Developanalgorithmforassessingthevalueofcommercialrealestate. 
+ 
+ Team:KazanPlova 
+ 
 
-**Must­have**: Git, Docker, Bash, Linux, Jupyter, Pycharm
+ SKILLS  
+ Python  :NumPy,SciPy,CatBoost,Pandas,PyTorchecosystemframeworks.  Must­have  :Git,Docker,Bash,Linux,Jupyter,Pycharm  Backend  :PythonTornado/Flask  Other  :CSharp,C++ 
+ 
 
-**Backend**: Python Tornado/Flask
+ INTERESTS   Professional:distributedandhighloadsystems,deeplearninginNLPOther:Drums,Guitar,Netflix,Powerlifting(alittlebit) 
+ 
 
-**Other**: C Sharp, C++
-
-**INTERESTS** Professional: distributed and highload systems, deep learning in NLP
-
-Other: Drums, Guitar, Netflix, Powerlifting(a little bit)
-
-Page 1 of [1](#_page0_x50.40_y43.20)
+Page1of[1](#_bookmark0)
