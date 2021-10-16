@@ -1,4 +1,4 @@
-LINK FOR DOWNLOADING: https://drive.google.com/file/d/1-a6cMlkZTDic04xou7UEJHFphivDVdiz/view?usp=sharing
+![LINK FOR DOWNLOADING](https://clck.ru/YFpeT)
 
 **Danil Kazancev**
 
